@@ -16,17 +16,6 @@ This is a Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. You c
 3. The winner of the round will be displayed on the screen.
 4. Keep playing and try to beat the computer!
 
-## Installation
-
-To run the game locally, follow these steps:
-
-1. Clone this repository to your local machine using Git:
-
-   ```bash
-   git clone https://github.com/AtharvaKulkarniIT/Rock-Paper-Scissor.git
-   
-That's it! You don't need to install any additional dependencies.
-
 ## Usage
 
 Simply open the `index.html` file in your web browser. You can start playing the game immediately. 
